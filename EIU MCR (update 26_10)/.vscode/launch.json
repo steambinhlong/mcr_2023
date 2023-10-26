@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Downloads/2023)-20231026T105302Z-001/CODE EIU MCR (Update 18-10-2023)/EIU MCR/EIU MCR",
+      "program": "d:/Downloads/2023)-20231026T105302Z-001/CODE EIU MCR (Update 18-10-2023)/EIU MCR/EIU MCR/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
